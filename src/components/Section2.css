@@ -1,0 +1,95 @@
+.section2 {
+    padding: 20px;
+    background-color: #0E1015;
+    font-family: 'Karla', sans-serif;
+  }
+  
+  .section2__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .section2__header h3 {
+    font-family: 'Krona One';
+    background-color: #D5224E;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #ffffff;
+  }
+  
+  .section2__rate-button {
+    background-color: #D5224E;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'KRONA ONE', sans-serif;
+  }
+  
+  .section2__review-card {
+    background-color: #1C171D;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section2__review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .section2__review-rating {
+    font-size: 16px;
+    color: #D5224E;
+    margin-right: 10px;
+  }
+  
+  .section2__review-author {
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+  }
+  
+  .section2__review-date {
+    font-size: 12px;
+    color: #ffffff;
+  }
+  
+  .section2__review-title {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-family: 'Krona One';
+  }
+  
+  .section2__review-text {
+    font-size: 14px;
+    color:#ffffff;
+    margin-bottom: 15px;
+  }
+  
+  .section2__review-feedback {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .section2__review-feedback button {
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    margin-right: 10px;
+    cursor: pointer;
+    color:#ffffff;
+  }
+  
+  .section2__review-feedback button:hover {
+    color: #D5224E;
+  }
+  
